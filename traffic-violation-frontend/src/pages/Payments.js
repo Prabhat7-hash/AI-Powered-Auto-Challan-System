@@ -126,7 +126,7 @@ function Payments() {
           <h3>Scan QR Code to Pay</h3>
           <img src={upiQRCode} alt="UPI QR Code" className="qr-code" />
           <div className="payment-details">
-            <p className="upi-id">UPI ID: csdevanarayan@oksbi</p>
+            <p className="upi-id">UPI ID: vishprabhkumar91@okaxis</p>
             <p className="upi-instruction">Scan to pay with any UPI app</p>
             <p className="payment-amount">Amount: ₹{fineAmount}</p>
           </div>
