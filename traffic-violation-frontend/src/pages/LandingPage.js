@@ -44,16 +44,10 @@ const LandingPage = ({ setIsAuthenticated }) => {
             Efficient. Transparent. Secure. Towards a Safer City!
           </p>
           <p className="hero-credit">
-            Final Year Project
+            Traffic Control
             <br />
             - Prabhat Vishwakarma
-            <br />
-            - Pratyush Kumar Tiwari
-            <br />
-            - Ashutosh Singh
-            <br />
-            - Niraj Kumar
-            <br />
+            
           </p>
         </div>
 
